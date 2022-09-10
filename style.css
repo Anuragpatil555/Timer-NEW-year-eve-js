@@ -1,0 +1,39 @@
+ body{ 
+    background-image: url("counttimer.jpg");
+    background-size: cover;
+    display: flex;
+    margin: 0%;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    flex-direction: column;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h1{
+    font-size: 4rem;
+    word-spacing: 60px;
+}
+
+.countcontainer{
+    display: flex;
+}
+
+.bigtext{
+    font-size: 5rem;
+    line-height: 1;
+    word-spacing: 90px;
+    word-spacing:normal;
+  
+}
+
+
+
+.countdown-el{
+    text-align: center; 
+}
+
+.countdown-el span{
+    font-size: 2rem; word-spacing: 110px;
+}
+
